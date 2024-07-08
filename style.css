@@ -6,7 +6,7 @@ body {
     height: 100vh;
     margin: 0;
     font-family: 'Arial', sans-serif;
-    background: url('images/bg.jpg') no-repeat center center fixed;
+    background: url('bg.jpg') no-repeat center center fixed;
     background-size: cover;
     overflow: hidden;
     position: relative;
@@ -18,7 +18,7 @@ body {
     height: 100%;
     top: 0;
     left: 0;
-    background: url('images/trees.png') no-repeat center center fixed;
+    background: url('trees.png') no-repeat center center fixed;
     background-size: cover;
     z-index: 2;
 }
