@@ -174,7 +174,7 @@ body {
     bottom: 150px;
     width: 350px; 
     height: 350px;
-    background: url('images/girl.png') no-repeat center center;
+    background: url('https://github.com/vaishnavibilla07/Animated-Login-Form/blob/main/girl.png?raw=true') no-repeat center center;
     background-size: contain;
     animation: moveGirl 7s linear infinite;
     z-index: 1;
